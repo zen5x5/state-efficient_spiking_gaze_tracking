@@ -1,6 +1,6 @@
 {
   "schema": "ebv_eye_formal_training_cache",
-  "publication_status": "prepared_not_published",
+  "publication_status": "published",
   "repository": "zen5x5/state-efficient_spiking_gaze_tracking",
   "release_tag": "formal-eye0-training-cache",
   "target_branch": "main",
@@ -30,8 +30,8 @@
         "validation": 346,
         "test": 346
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user4_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638242125"
     },
     {
       "task": "pursuit",
@@ -52,8 +52,8 @@
         "validation": 292,
         "test": 292
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user5_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638242162"
     },
     {
       "task": "pursuit",
@@ -74,8 +74,8 @@
         "validation": 2037,
         "test": 2037
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user6_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638242203"
     },
     {
       "task": "pursuit",
@@ -96,8 +96,8 @@
         "validation": 1405,
         "test": 1405
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user7_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638242285"
     },
     {
       "task": "pursuit",
@@ -118,8 +118,8 @@
         "validation": 454,
         "test": 454
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user8_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638242338"
     },
     {
       "task": "pursuit",
@@ -140,8 +140,8 @@
         "validation": 2045,
         "test": 2045
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user9_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638242383"
     },
     {
       "task": "pursuit",
@@ -162,8 +162,8 @@
         "validation": 1194,
         "test": 1194
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user10_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638242462"
     },
     {
       "task": "pursuit",
@@ -184,8 +184,8 @@
         "validation": 1486,
         "test": 1486
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user11_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638242533"
     },
     {
       "task": "pursuit",
@@ -206,8 +206,8 @@
         "validation": 1586,
         "test": 1586
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user12_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638242590"
     },
     {
       "task": "pursuit",
@@ -228,8 +228,8 @@
         "validation": 627,
         "test": 627
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user13_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638242648"
     },
     {
       "task": "pursuit",
@@ -250,8 +250,8 @@
         "validation": 888,
         "test": 888
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user14_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638242675"
     },
     {
       "task": "pursuit",
@@ -272,8 +272,8 @@
         "validation": 426,
         "test": 426
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user15_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638242722"
     },
     {
       "task": "pursuit",
@@ -294,8 +294,8 @@
         "validation": 829,
         "test": 829
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user16_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638242748"
     },
     {
       "task": "pursuit",
@@ -316,8 +316,8 @@
         "validation": 1364,
         "test": 1364
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user17_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638242779"
     },
     {
       "task": "pursuit",
@@ -338,8 +338,8 @@
         "validation": 454,
         "test": 454
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user18_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638242841"
     },
     {
       "task": "pursuit",
@@ -360,8 +360,8 @@
         "validation": 189,
         "test": 189
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user19_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638242875"
     },
     {
       "task": "pursuit",
@@ -382,8 +382,8 @@
         "validation": 2684,
         "test": 2684
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user20_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638242908"
     },
     {
       "task": "pursuit",
@@ -404,8 +404,8 @@
         "validation": 596,
         "test": 596
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user21_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638242970"
     },
     {
       "task": "pursuit",
@@ -426,8 +426,8 @@
         "validation": 1461,
         "test": 1461
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user22_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638243002"
     },
     {
       "task": "pursuit",
@@ -448,8 +448,8 @@
         "validation": 442,
         "test": 442
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user23_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638243075"
     },
     {
       "task": "pursuit",
@@ -470,8 +470,8 @@
         "validation": 1287,
         "test": 1287
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user24_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638243156"
     },
     {
       "task": "pursuit",
@@ -492,8 +492,8 @@
         "validation": 1876,
         "test": 1876
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user25_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638243216"
     },
     {
       "task": "pursuit",
@@ -514,8 +514,8 @@
         "validation": 402,
         "test": 402
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user26_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638243295"
     },
     {
       "task": "pursuit",
@@ -536,8 +536,8 @@
         "validation": 1346,
         "test": 1346
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/pursuit_user27_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638243324"
     },
     {
       "task": "saccade",
@@ -558,8 +558,8 @@
         "validation": 652,
         "test": 652
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user4_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638243372"
     },
     {
       "task": "saccade",
@@ -580,8 +580,8 @@
         "validation": 170,
         "test": 170
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user5_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638243422"
     },
     {
       "task": "saccade",
@@ -602,8 +602,8 @@
         "validation": 2741,
         "test": 2741
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user6_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638243449"
     },
     {
       "task": "saccade",
@@ -624,8 +624,8 @@
         "validation": 1405,
         "test": 1405
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user7_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638243521"
     },
     {
       "task": "saccade",
@@ -646,8 +646,8 @@
         "validation": 859,
         "test": 859
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user8_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638243575"
     },
     {
       "task": "saccade",
@@ -668,8 +668,8 @@
         "validation": 1443,
         "test": 1443
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user9_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638243615"
     },
     {
       "task": "saccade",
@@ -690,8 +690,8 @@
         "validation": 839,
         "test": 839
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user10_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638243654"
     },
     {
       "task": "saccade",
@@ -712,8 +712,8 @@
         "validation": 1293,
         "test": 1293
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user11_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638243723"
     },
     {
       "task": "saccade",
@@ -734,8 +734,8 @@
         "validation": 1058,
         "test": 1058
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user12_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638243763"
     },
     {
       "task": "saccade",
@@ -756,8 +756,8 @@
         "validation": 864,
         "test": 864
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user13_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638243827"
     },
     {
       "task": "saccade",
@@ -778,8 +778,8 @@
         "validation": 837,
         "test": 837
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user14_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638243876"
     },
     {
       "task": "saccade",
@@ -800,8 +800,8 @@
         "validation": 614,
         "test": 614
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user15_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638243911"
     },
     {
       "task": "saccade",
@@ -822,8 +822,8 @@
         "validation": 798,
         "test": 798
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user16_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638243953"
     },
     {
       "task": "saccade",
@@ -844,8 +844,8 @@
         "validation": 1782,
         "test": 1782
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user17_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638243993"
     },
     {
       "task": "saccade",
@@ -866,8 +866,8 @@
         "validation": 256,
         "test": 256
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user18_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638244086"
     },
     {
       "task": "saccade",
@@ -888,8 +888,8 @@
         "validation": 271,
         "test": 271
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user19_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638244117"
     },
     {
       "task": "saccade",
@@ -910,8 +910,8 @@
         "validation": 2807,
         "test": 2807
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user20_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638244153"
     },
     {
       "task": "saccade",
@@ -932,8 +932,8 @@
         "validation": 1212,
         "test": 1212
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user21_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638244205"
     },
     {
       "task": "saccade",
@@ -954,8 +954,8 @@
         "validation": 1046,
         "test": 1046
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user22_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638244252"
     },
     {
       "task": "saccade",
@@ -976,8 +976,8 @@
         "validation": 614,
         "test": 614
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user23_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638244272"
     },
     {
       "task": "saccade",
@@ -998,8 +998,8 @@
         "validation": 2456,
         "test": 2456
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user24_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638244307"
     },
     {
       "task": "saccade",
@@ -1020,8 +1020,8 @@
         "validation": 1310,
         "test": 1310
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user25_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638244375"
     },
     {
       "task": "saccade",
@@ -1042,8 +1042,8 @@
         "validation": 534,
         "test": 534
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user26_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638244413"
     },
     {
       "task": "saccade",
@@ -1064,8 +1064,9 @@
         "validation": 2528,
         "test": 2528
       },
-      "url": null,
-      "asset_api_url": null
+      "url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/download/formal-eye0-training-cache/saccade_user27_eye0.tar",
+      "asset_api_url": "https://api.github.com/repos/zen5x5/state-efficient_spiking_gaze_tracking/releases/assets/638244450"
     }
-  ]
+  ],
+  "release_url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/tag/formal-eye0-training-cache"
 }

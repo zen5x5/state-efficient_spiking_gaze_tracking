@@ -28,6 +28,23 @@
     }
   },
   "retrained_200_epochs": false,
-  "cache_upload_status": "prepared_not_published",
-  "publication_scope_verified": true
+  "cache_upload_status": "published",
+  "publication_scope_verified": true,
+  "github_publication": {
+    "repository": "zen5x5/state-efficient_spiking_gaze_tracking",
+    "release_url": "https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/tag/formal-eye0-training-cache",
+    "verified_assets": 48,
+    "bytes": 337428480,
+    "repository_visibility": "public",
+    "downloaded_records": 2,
+    "downloaded_user": 15,
+    "downloaded_tasks": [
+      "pursuit",
+      "saccade"
+    ],
+    "download_authentication": "none",
+    "archive_and_file_sha256": "passed",
+    "model_loader_splits_verified": 6,
+    "credentials_persisted": false
+  }
 }

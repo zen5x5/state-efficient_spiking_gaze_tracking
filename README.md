@@ -24,7 +24,7 @@ export EBV_EYE_RESULT_ROOT="$HOME/ebv-eye-results"
 
 `datasets/formal_eye0.json` contains file and archive SHA-256 values for 48 task/subject records. Caches have fixed train/validation/test membership, 400-event count frames of shape 2×96×128 and physical train overlap samples. The downloader validates every file before installation.
 
-The 48 archives (321.8 MiB total) will be available in the [formal eye0 cache release](https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/tag/formal-eye0-training-cache) once uploaded. The download catalog records archive and file SHA-256 values.
+The 48 archives (321.8 MiB total) are available in the [formal eye0 cache release](https://github.com/zen5x5/state-efficient_spiking_gaze_tracking/releases/tag/formal-eye0-training-cache). Downloads are public and do not require a GitHub token. The catalog records archive and file SHA-256 values.
 
 ```bash
 python -m code.download_dataset --users 15 --tasks pursuit saccade --output "$EBV_EYE_CACHE_ROOT"
@@ -90,3 +90,5 @@ The publisher creates a draft release, verifies all asset digests, and publishes
 The release was checked in an isolated tree: all four model test suites and four release checks passed; cached user15 archives were loaded by the downloader; ANN and saccade SNN one-step training/checkpoint smoke checks passed. The standalone CPU test returned 0.746519° pursuit and 1.252111° saccade on the original user15 checkpoints, differing from the original GPU reference by 0.001602° and 0.002199°. These are checkpoint replays, not newly completed 200-epoch training runs.
 
 The publisher refreshes final download URLs after the draft is published.
+
+All 48 uploaded asset sizes and GitHub SHA-256 digests match the catalog. Both user15 task archives were downloaded anonymously from this public repository into a fresh directory; archive/file checksums and all six train/validation/test model loaders passed.
