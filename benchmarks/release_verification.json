@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-13",
+  "cache_records": 48,
+  "cache_archive_bytes": 337428480,
+  "tests": {
+    "release_checks": 4,
+    "pursuit_ann": "passed",
+    "pursuit_snn": "passed",
+    "saccade_ann": 6,
+    "saccade_snn": 11,
+    "ann_training_smoke_pursuit": "one optimizer step, checkpoint roundtrip passed",
+    "ann_training_smoke_saccade": "one optimizer step passed",
+    "snn_training_smoke_saccade": "one optimizer step, CPU Sinabs passed",
+    "cache_http_transfer": "local HTTP download, archive/file SHA-256 and extraction passed"
+  },
+  "checkpoint_replays": {
+    "pursuit": {
+      "reference_error_deg": 0.7481212053762775,
+      "cpu_replay_error_deg": 0.7465194705523935,
+      "absolute_difference_deg": 0.0016017348238839269,
+      "samples": 426
+    },
+    "saccade": {
+      "reference_error_deg": 1.249911904335022,
+      "cpu_replay_error_deg": 1.2521111965179443,
+      "absolute_difference_deg": 0.0021992921829223633,
+      "samples": 614
+    }
+  },
+  "retrained_200_epochs": false,
+  "cache_upload_status": "prepared_not_published",
+  "publication_scope_verified": true
+}

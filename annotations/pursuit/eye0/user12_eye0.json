@@ -1,0 +1,149 @@
+{
+  "schema": "ebv_eye_pursuit_final_annotations",
+  "user": 12,
+  "eye": 0,
+  "roi": [
+    28,
+    67,
+    192,
+    256
+  ],
+  "closed_eye_cores_relative_ms": [
+    [
+      6220,
+      6300
+    ],
+    [
+      27180,
+      27300
+    ],
+    [
+      29860,
+      29980
+    ],
+    [
+      36540,
+      36660
+    ],
+    [
+      51979,
+      52019
+    ],
+    [
+      57459,
+      57499
+    ],
+    [
+      67299,
+      67339
+    ],
+    [
+      69219,
+      69299
+    ],
+    [
+      70299,
+      70379
+    ],
+    [
+      71739,
+      71819
+    ],
+    [
+      90819,
+      90939
+    ]
+  ],
+  "time_reference": "first_pursuit_frame_relative_ms",
+  "closed_frame_runs": [
+    {
+      "preceding_frame_index": 5409,
+      "closed_frame_indices": [
+        5410,
+        5411
+      ],
+      "following_frame_index": 5412
+    },
+    {
+      "preceding_frame_index": 5933,
+      "closed_frame_indices": [
+        5934,
+        5935,
+        5936
+      ],
+      "following_frame_index": 5937
+    },
+    {
+      "preceding_frame_index": 6000,
+      "closed_frame_indices": [
+        6001,
+        6002,
+        6003
+      ],
+      "following_frame_index": 6004
+    },
+    {
+      "preceding_frame_index": 6167,
+      "closed_frame_indices": [
+        6168,
+        6169,
+        6170
+      ],
+      "following_frame_index": 6171
+    },
+    {
+      "preceding_frame_index": 6553,
+      "closed_frame_indices": [
+        6554
+      ],
+      "following_frame_index": 6555
+    },
+    {
+      "preceding_frame_index": 6690,
+      "closed_frame_indices": [
+        6691
+      ],
+      "following_frame_index": 6692
+    },
+    {
+      "preceding_frame_index": 6936,
+      "closed_frame_indices": [
+        6937
+      ],
+      "following_frame_index": 6938
+    },
+    {
+      "preceding_frame_index": 6984,
+      "closed_frame_indices": [
+        6985,
+        6986
+      ],
+      "following_frame_index": 6987
+    },
+    {
+      "preceding_frame_index": 7011,
+      "closed_frame_indices": [
+        7012,
+        7013
+      ],
+      "following_frame_index": 7014
+    },
+    {
+      "preceding_frame_index": 7047,
+      "closed_frame_indices": [
+        7048,
+        7049
+      ],
+      "following_frame_index": 7050
+    },
+    {
+      "preceding_frame_index": 7524,
+      "closed_frame_indices": [
+        7525,
+        7526,
+        7527
+      ],
+      "following_frame_index": 7528
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "schema": "ebv_eye_pursuit_final_annotations",
+  "user": 20,
+  "eye": 0,
+  "roi": [
+    13,
+    90,
+    192,
+    256
+  ],
+  "closed_eye_cores_relative_ms": [
+    [
+      4020,
+      4060
+    ],
+    [
+      6540,
+      6580
+    ],
+    [
+      12860,
+      12900
+    ],
+    [
+      39140,
+      39180
+    ],
+    [
+      61259,
+      61299
+    ],
+    [
+      77619,
+      77659
+    ],
+    [
+      79859,
+      79939
+    ],
+    [
+      83339,
+      83379
+    ],
+    [
+      86179,
+      86219
+    ]
+  ],
+  "time_reference": "first_pursuit_frame_relative_ms",
+  "closed_frame_runs": [
+    {
+      "preceding_frame_index": 4987,
+      "closed_frame_indices": [
+        4988
+      ],
+      "following_frame_index": 4989
+    },
+    {
+      "preceding_frame_index": 5050,
+      "closed_frame_indices": [
+        5051
+      ],
+      "following_frame_index": 5052
+    },
+    {
+      "preceding_frame_index": 5208,
+      "closed_frame_indices": [
+        5209
+      ],
+      "following_frame_index": 5210
+    },
+    {
+      "preceding_frame_index": 5865,
+      "closed_frame_indices": [
+        5866
+      ],
+      "following_frame_index": 5867
+    },
+    {
+      "preceding_frame_index": 6418,
+      "closed_frame_indices": [
+        6419
+      ],
+      "following_frame_index": 6420
+    },
+    {
+      "preceding_frame_index": 6827,
+      "closed_frame_indices": [
+        6828
+      ],
+      "following_frame_index": 6829
+    },
+    {
+      "preceding_frame_index": 6883,
+      "closed_frame_indices": [
+        6884,
+        6885
+      ],
+      "following_frame_index": 6886
+    },
+    {
+      "preceding_frame_index": 6970,
+      "closed_frame_indices": [
+        6971
+      ],
+      "following_frame_index": 6972
+    },
+    {
+      "preceding_frame_index": 7041,
+      "closed_frame_indices": [
+        7042
+      ],
+      "following_frame_index": 7043
+    }
+  ]
+}

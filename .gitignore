@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+cache/
+data/
+result/
+results/
+*.pt
+*.pth
+*.npz
+*.tar
+*.tar.gz

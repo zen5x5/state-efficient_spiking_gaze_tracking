@@ -1,0 +1,60 @@
+{
+  "schema": "ebv_eye_pursuit_final_annotations",
+  "user": 6,
+  "eye": 0,
+  "roi": [
+    36,
+    76,
+    192,
+    256
+  ],
+  "closed_eye_cores_relative_ms": [
+    [
+      25980,
+      26060
+    ],
+    [
+      36780,
+      37060
+    ],
+    [
+      68059,
+      68259
+    ]
+  ],
+  "time_reference": "first_pursuit_frame_relative_ms",
+  "closed_frame_runs": [
+    {
+      "preceding_frame_index": 5496,
+      "closed_frame_indices": [
+        5497,
+        5498
+      ],
+      "following_frame_index": 5499
+    },
+    {
+      "preceding_frame_index": 5766,
+      "closed_frame_indices": [
+        5767,
+        5768,
+        5769,
+        5770,
+        5771,
+        5772,
+        5773
+      ],
+      "following_frame_index": 5774
+    },
+    {
+      "preceding_frame_index": 6548,
+      "closed_frame_indices": [
+        6549,
+        6550,
+        6551,
+        6552,
+        6553
+      ],
+      "following_frame_index": 6554
+    }
+  ]
+}

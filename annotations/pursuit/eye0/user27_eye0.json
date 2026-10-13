@@ -1,0 +1,40 @@
+{
+  "schema": "ebv_eye_pursuit_final_annotations",
+  "user": 27,
+  "eye": 0,
+  "roi": [
+    0,
+    79,
+    192,
+    256
+  ],
+  "closed_eye_cores_relative_ms": [
+    [
+      63019,
+      63099
+    ],
+    [
+      75579,
+      75659
+    ]
+  ],
+  "time_reference": "first_pursuit_frame_relative_ms",
+  "closed_frame_runs": [
+    {
+      "preceding_frame_index": 6599,
+      "closed_frame_indices": [
+        6600,
+        6601
+      ],
+      "following_frame_index": 6602
+    },
+    {
+      "preceding_frame_index": 6913,
+      "closed_frame_indices": [
+        6914,
+        6915
+      ],
+      "following_frame_index": 6916
+    }
+  ]
+}
