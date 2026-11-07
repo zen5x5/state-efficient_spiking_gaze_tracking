@@ -1,6 +1,6 @@
 # EBV-Eye ANN/SNN training and testing
 
-This tree contains models, training, evaluation, cache loading, tests and final annotations. It uses the frozen, training-ready eye0 caches for users 4–27. Final annotations are included in `annotations/`. Raw-data preprocessing and AI boundary selection are outside this release.
+This tree contains models, training, evaluation, cache loading and final annotations. It uses the frozen, training-ready eye0 caches for users 4–27. Final annotations are included in `annotations/`. Raw-data preprocessing and AI boundary selection are outside this release.
 
 Clone this standalone repository before running the commands below:
 
@@ -58,37 +58,3 @@ python -m code.test_checkpoint --task saccade --model snn \
 ```
 
 `benchmarks/reference_results.json` gives every subject's original seed2021 validation/test reference and provenance hashes. The 24-subject test means are 0.823945° for pursuit and 1.325509° for saccade, continuous regression. These are per-subject models; a user15 run should be compared with user15's reference, not the 24-subject mean. Hardware/software and training seed can change results; the release fixes the inputs, model and training contract.
-
-## Tests
-
-After installing the user15 caches:
-
-```bash
-python -m code.tests_training_release
-python -m code.pursuit.fixed_event_window.ann.tests
-python -m code.pursuit.fixed_event_window.snn.tests
-python -m code.saccade.fixed_event_window.ann.tests
-python -m code.saccade.fixed_event_window.snn.tests
-```
-
-Some modules retain tested experimental options. The reproduction commands above select the formal continuous-output, ordinary-loss route.
-
-## Publish the prepared cache assets
-
-The upload command requires an existing GitHub token with repository Contents write access (see [GitHub release API documentation](https://docs.github.com/en/rest/releases/releases)). The token is read from GH_TOKEN or GITHUB_TOKEN and is never written to the catalog. Push the clean release branch first, then upload the 48 prepared archives from the archive directory supplied with the release handoff:
-
-```bash
-git push origin main
-python -m code.publish_training_cache \
-  --catalog datasets/formal_eye0.json \
-  --archive-root /path/to/formal-training-cache-assets \
-  --output-catalog datasets/formal_eye0.json
-```
-
-The publisher creates a draft release, verifies all asset digests, and publishes it only after all uploads finish. Commit and push the catalog populated with the actual download URLs. An alternate repository can be selected with --repository; no repository visibility is changed.
-
-The release was checked in an isolated tree: all four model test suites and four release checks passed; cached user15 archives were loaded by the downloader; ANN and saccade SNN one-step training/checkpoint smoke checks passed. The standalone CPU test returned 0.746519° pursuit and 1.252111° saccade on the original user15 checkpoints, differing from the original GPU reference by 0.001602° and 0.002199°. These are checkpoint replays, not newly completed 200-epoch training runs.
-
-The publisher refreshes final download URLs after the draft is published.
-
-All 48 uploaded asset sizes and GitHub SHA-256 digests match the catalog. Both user15 task archives were downloaded anonymously from this public repository into a fresh directory; archive/file checksums and all six train/validation/test model loaders passed.
